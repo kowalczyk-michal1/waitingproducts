@@ -1,6 +1,4 @@
 <?php
-
-
 class WPModel extends ObjectModel {
 
 
