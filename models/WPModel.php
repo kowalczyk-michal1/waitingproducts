@@ -1,13 +1,6 @@
 <?php
 
-/**
- *
- * @author     Ireneusz Kierkowski <ircykk@gmail.pl>
- * @copyright  (c)2013 addonsPresta.com
- * @package    Allegro PrestaShop Module   
- * @doc        http://addonspresta.com/content/10-allegro-integration
- * 
- */
+
 class WPModel extends ObjectModel {
 
 
